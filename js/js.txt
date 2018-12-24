@@ -1,1 +1,19 @@
-js pending topics
+JS Switch
+JS Loops
+JS Break
+JS Bitwise
+JS RegExp
+JS Errors
+JS Hoisting
+JS Strict Mode
+JS Let
+JS Const
+JS Debugging
+JS Best Practices
+JS Mistakes
+JS Performance
+JS Reserved Words
+JS Forms
+JS Objects
+JS Bom - History, Popup Alert, Timing, Cookies
+JS Ajax
